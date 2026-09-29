@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou a Yamaia 👋</h1>
+<h1 align="center">Olá, eu sou o Yamaia 👋</h1>
 
 <p align="center">
-  Desenvolvedora backend focada em <b>Python</b>, <b>FastAPI</b> e <b>nuvem (Azure)</b>.<br>
+  Desenvolvedor backend focado em <b>Python</b>, <b>FastAPI</b> e <b>nuvem (Azure)</b>.<br>
   Construindo um portfólio para atuar em backend, cloud e arquitetura de soluções.
 </p>
 
